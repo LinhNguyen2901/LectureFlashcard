@@ -1,0 +1,25 @@
+.signup-page {
+  background-color: #f1f1f1;
+  padding: 20px 0;
+}
+
+.signup-form {
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.signup-left {
+  text-align: center;
+  padding: 20px;
+  flex: 1;
+}
+
+.signup-left .h1 {
+  font-weight: bold;
+}
+
+.signup-login {
+  color: #f7888f;
+}
